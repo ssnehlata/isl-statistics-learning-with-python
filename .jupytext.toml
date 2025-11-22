@@ -1,1 +1,2 @@
-ECHO is on.
+formats = "ipynb,py" 
+default_jupytext_formats = "ipynb,py" 
